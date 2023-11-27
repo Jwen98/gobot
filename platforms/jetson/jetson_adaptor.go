@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	pwmPeriodDefault = 3000000 // 3 ms = 333 Hz
+	pwmPeriodDefault = 10000000 // 3 ms = 333 Hz
 
 	defaultI2cBusNumber = 1
 
